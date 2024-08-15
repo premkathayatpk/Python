@@ -9,4 +9,5 @@ marks.append(f3)
 f4=input("Enter marks name: ")
 marks.append(f4)
 print(marks)
-marks.sort
+marks.sort()
+print(marks)
